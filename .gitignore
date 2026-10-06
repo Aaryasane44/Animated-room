@@ -1,0 +1,13 @@
+# Visual Studio user and cache files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Generated x64/Win32 build products
+**/x64/
+**/Win32/
+
+# Local source backups
+*.bak
